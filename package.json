@@ -1,0 +1,21 @@
+{
+  "name": "FB_BOT",
+  "version": "1.0.0",
+  "description": "This is my bot",
+  "main": "fb-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "joe"
+  ],
+  "author": "Joe",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "facebook-chat-api": "^1.4.0",
+    "weather-js": "^2.0.0"
+  }
+}
